@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+
+<repositories version="1.0">
+	<repo priority="50" quality="experimental" status="unofficial">
+		<name>todesking</name>
+		<description>My private overlay</description>
+		<homepage>https://github.com/todesking/portage-overlay</homepage>
+		<source type="git">https://github.com/todesking/portage-overlay.git</source>
+	</repo>
+</repositories>
